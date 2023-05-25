@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola!👋 mi nombre es Jhonny Zambrano
+
+Soy un **Programador full stack** estudiante de ingenieria de software y apasionado por el mundo de la tecnología, trabajé durante varios años como tecnólogo en electrónica y descubrí mi pasión por la programación y el desarrollo de software. 
+
 
 <!--
 **Jhonny91360/Jhonny91360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
