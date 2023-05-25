@@ -1,26 +1,25 @@
 ### Hola!👋 mi nombre es Jhonny Zambrano
 
-Soy un **Programador full stack** estudiante de ingenieria de software y apasionado por el mundo de la tecnología, trabajé durante varios años como tecnólogo en electrónica y descubrí mi pasión por la programación y el desarrollo de software. 
+Soy un **Programador full stack** estudiante de ingeniería de software y apasionado por el mundo de la tecnología. Trabajé durante varios años como tecnólogo en electrónica y descubrí mi pasión por la programación y el desarrollo de software. 
 
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programador. 
 
-Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion como programador. 
+### Tecnologías:
+Las principales tecnologías que manejo son:
+* Javascript
+* Node
+* React
+* Express
+* PostgreSQL
+* Sequelize
+* GIT
 
-### Tecnologias:
- Las principales tecnologias que manejo son:
-    * Javascript
-    * Node
-    * React
-    * Express
-    * PostgreSQL
-    * Sequelize
-    * GIT
-    
-Cuento tambien con conocimiento en HTML, CSS y JAVA
+Cuento también con conocimiento en HTML, CSS y JAVA.
 
-### Aqui puedes contactarme:
-    Correo: jhonnyzamsa@hotmail.com
-    
-     https://www.linkedin.com/in/jhonnyzamsa
+### Aquí puedes contactarme:
+Correo: jhonnyzamsa@hotmail.com
+
+https://www.linkedin.com/in/jhonnyzamsa
 <!--
 **Jhonny91360/Jhonny91360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
