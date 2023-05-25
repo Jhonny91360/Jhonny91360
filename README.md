@@ -7,20 +7,20 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
 
 ### Tecnologias:
  Las principales tecnologias que manejo son:
-    -Javascript
-    -Node
-    -React
-    -Express
-    -PostgreSQL
-    -Sequelize
-    -GIT
+    * Javascript
+    * Node
+    * React
+    * Express
+    * PostgreSQL
+    * Sequelize
+    * GIT
     
 Cuento tambien con conocimiento en HTML, CSS y JAVA
 
 ### Aqui puedes contactarme:
-    https://www.linkedin.com/in/jhonnyzamsa
-    
     Correo: jhonnyzamsa@hotmail.com
+    
+     https://www.linkedin.com/in/jhonnyzamsa
 <!--
 **Jhonny91360/Jhonny91360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
