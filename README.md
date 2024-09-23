@@ -1,17 +1,20 @@
 ### Hola!👋 mi nombre es Jhonny Zambrano
 
-Soy un **Programador full stack** estudiante de ingeniería de software y apasionado por el mundo de la tecnología. Trabajé durante varios años como tecnólogo en electrónica y descubrí mi pasión por la programación y el desarrollo de software. 
+Soy ingeniero de software y un apasionado por el mundo de la tecnología. Trabajé durante varios años como tecnólogo en electrónica y descubrí mi pasión por la programación y el desarrollo de software. 
 
-Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como programador. 
+Actualmente trabajo como desarrollador full stack en la empresa Brace developers. 
 
 ### Tecnologías:
 Las principales tecnologías que manejo son:
 * Javascript
+* Typescript
+* Next.js
+* Tailwind CSS
 * Node
 * React
 * Express
+* NestJS
 * PostgreSQL
-* Sequelize
 * GIT
 
 Cuento también con conocimiento en HTML, CSS y JAVA.
